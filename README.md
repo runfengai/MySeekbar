@@ -1,1 +1,1 @@
-<imag src="https://github.com/runfengai/MySeekbar/blob/master/ReadMePic/2017-02-06_22_19_22%5B1%5D.mp4_1486391146.gif" width="200" height="360" />
+<imag src="https://github.com/runfengai/MySeekbar/blob/master/ReadMePic/1486391146.gif" width="200" height="360" />
