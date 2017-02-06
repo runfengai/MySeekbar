@@ -1,1 +1,3 @@
-<image src="https://github.com/runfengai/MySeekbar/blob/master/ReadMePic/1486391146.gif" width="200" height="360" />
+月牙形状的SeekBar
+
+![image](https://github.com/runfengai/MySeekbar/blob/master/ReadMePic/1486391146.gif)
